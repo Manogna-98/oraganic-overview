@@ -15,6 +15,6 @@ Organic food finder. It is a mobile / web application that allows you to find or
 - <b> Yeshu Rakshana</b>: Provides the Nutritional values and calorie intake of each food item
 - <b> jaya ram </b>: Personalized Meal and Diet Plans
 - <b> armili </b>: Based on the mode of travel, if walking then it will also show you the number of calories you burn. 
-- <b> manogna</b>:For a subscription, Delivery is made available
+- <b> manogna</b>: For a subscription, Delivery is made available
 
 
