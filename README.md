@@ -1,7 +1,7 @@
 # oraganic-overview
 #
 # ORGANIC_OVERVIEW
-<b> health :</b>
+<b> For Your Health :</b>
 # project summary
 Organic food finder. It is a mobile / web application that allows you to find organic foods of your choice at reasonable prices. 
 # Development Model
